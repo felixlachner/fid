@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0 10%;
+    font-family: "Montserrat";
+    background-image: linear-gradient(rgb(255, 163, 25), rgb(255, 255, 255), rgb(25, 201, 255),  rgb(79, 158, 248));
+}
+header{
+    background-color: rgba(151, 248, 255, 0.603);
+}
+h1{
+    text-align: center;
+    font-weight: normal;
+    border-bottom: 1px solid black;
+    font-family: "Josefin Slab";
+    letter-spacing: 5px;
+    font-size: 60px;
+    color: #ff0000;
+    }
+nav{
+    text-align: left;
+    line-height: 3;
+    background-color: rgb(20, 201, 214);
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    }
+article{
+    margin-left: 100px;
+    margin-right:100px;
+    text-align: justify;
+}
+p{
+    font-size: 40px;
+}
+.img{
+    text-align: center;
+}
+footer {
+	  border-top: 1px solid #000000;
+	  text-align: center;
+	  padding-top: 1em;
+}
+footer img {
+	margin-left: .5em;
+	margin-right: .5em;
+}
+footer p{
+    font-size: small;
+}
+a:link{
+    color: #ff0000;
+}
+a:hover{
+    background-color: aqua;
+}
